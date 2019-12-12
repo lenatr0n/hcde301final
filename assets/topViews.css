@@ -1,5 +1,7 @@
-body{
+div{
     position:relative;
 	font-family: sans-serif;
-    margin-right: 480px;
+    text-align: center;
+    background-color: #303132;
+    color:white;
 }

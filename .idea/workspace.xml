@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7081edb4-40e6-4126-be57-494ae3d6119d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/topViews.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topViews.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/hello.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/hello.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildingblock.py" beforeDir="false" afterPath="$PROJECT_DIR$/buildingblock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/topViews.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/topViews.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topViews.html" beforeDir="false" afterPath="$PROJECT_DIR$/topViews.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +110,7 @@
       <workItem from="1575597127391" duration="1652000" />
       <workItem from="1575845617396" duration="4322000" />
       <workItem from="1575854065581" duration="6375000" />
-      <workItem from="1576031290370" duration="11948000" />
+      <workItem from="1576031290370" duration="16448000" />
     </task>
     <servers />
   </component>
